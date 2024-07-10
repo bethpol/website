@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Elizabeth Polito
+description: Electrical & Computer Engineering Senior at Cornell Engineering
 
 baseurl: "/"
 url: "https://bethpol.github.io" #custom url to be used instead of GitHub repository
@@ -13,7 +13,6 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
